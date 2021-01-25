@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS18B20Z+T&R
+D Board Mount Temperature Sensors Programmable Resolution 1-Wire Digital Thermometer
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-25/482711.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name MMA8452QR1)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/LIB_MMA8452QR1/MMA8452QR1/KiCad/MMA8452QR1.lib)(options "")(descr ""))
+  (lib (name DS18B20Z+T&R)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/LIB_DS18B20Z+T&R/DS18B20Z+T&R/KiCad/DS18B20Z+T&R.lib)(options "")(descr ""))
+  (lib (name DHT22)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/LIB_DHT22/DHT22/KiCad/DHT22.lib)(options "")(descr ""))
+  (lib (name NUCLEO_L432KC)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/NUCLEO-L432KC/NUCLEO_L432KC.lib)(options "")(descr ""))
+  (lib (name SOL2W)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/SOL2W/SOL2W.lib)(options "")(descr ""))
+  (lib (name PMIC-CN3065_DFN8_)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/PMIC-CN3065_DFN8_/PMIC-CN3065_DFN8_.lib)(options "")(descr ""))
+  (lib (name PH2-0_2P)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/PH2-0_2P/PH2-0_2P.lib)(options "")(descr ""))
+  (lib (name Conn_PHP2)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/Conn_PHP2/Conn_PHP2.lib)(options "")(descr ""))
+  (lib (name WSSFM10R1AT)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/WSSFM10R1AT/WSSFM10R1AT.lib)(options "")(descr ""))
+)

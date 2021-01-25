@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name DHT22)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/LIB_DHT22/DHT22/KiCad/DHT22.mod)(options "")(descr ""))
+  (lib (name DS18B20Z+T&R)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/LIB_DS18B20Z+T&R/DS18B20Z+T&R/KiCad/DS18B20Z+T&R.mod)(options "")(descr ""))
+  (lib (name MMA8452QR1)(type Legacy)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/LIB_MMA8452QR1/MMA8452QR1/KiCad/MMA8452QR1.mod)(options "")(descr ""))
+  (lib (name NUCLEO-L432KC)(type KiCad)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/NUCLEO-L432KC)(options "")(descr ""))
+  (lib (name PMIC-CN3065_DFN8_)(type KiCad)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/PMIC-CN3065_DFN8_)(options "")(descr ""))
+  (lib (name Connector_PinHeader_2.00mm)(type KiCad)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/Connector_2mm/Connector_PinHeader_2.00mm.pretty)(options "")(descr ""))
+  (lib (name "Amplifier_Audio (1)")(type KiCad)(uri "/home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/Amplifier_Audio (1)")(options "")(descr ""))
+  (lib (name Connector_Audio)(type KiCad)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/Connector_Audio.pretty)(options "")(descr ""))
+  (lib (name LM386N-4_NOPB)(type KiCad)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/LM386N-4_NOPB)(options "")(descr ""))
+  (lib (name kicad-footprints-master)(type KiCad)(uri ${KICAD_SYMBOL_DIR}/kicad-footprints-master)(options "")(descr ""))
+  (lib (name WSSFM10R1AT)(type KiCad)(uri /home/clement/Cours/S3/PROJET_EMBARQUE/PCB/librairie/WSSFM10R1AT)(options "")(descr ""))
+)
